@@ -65,3 +65,6 @@ body {
   color: antiquewhite;
   transition: 0.8s ease-out;
 }
+.footer {
+  text-align: center;
+}
